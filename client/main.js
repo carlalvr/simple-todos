@@ -11,4 +11,3 @@ Template.body.helpers({
 });
 
 import '../imports/ui/body.js';
-
